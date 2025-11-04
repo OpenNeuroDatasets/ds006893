@@ -1,4 +1,4 @@
-Nr	Subject ID	MRI session	Menstrual cycle phase	Resting-state BOLD	Food cue task BOLD
+Nr	Subject ID	MRI session	Menstrual cycle phase	Resting-state BOLD	Food cue task 
 1	sub-4496	ses-V5		Follicular 		yes			yes
 1	sub-4496	ses-V6		Luteal			yes			yes
 2	sub-4533	ses-V5		Luteal			yes			yes
